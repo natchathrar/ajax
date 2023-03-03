@@ -1,0 +1,27 @@
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
+    small
+    {
+        color: red;
+    }
+    
+table,th,td{
+    border: 2px solid rgb(234, 214, 214);
+    border-collapse: collapse;
+    margin-bottom: 50px;
+}
+th
+{
+    background-color: black;
+    color: white;
+}
+
+
+table{
+    width: 100%;
+    padding: 10px;
+    height: 10%;
+}
